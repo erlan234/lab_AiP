@@ -1,0 +1,99 @@
+p b i {
+    color: red
+}
+li > i   {
+    color: red
+}
+
+.odd{
+    color: red;
+}
+.eve{
+    color: green;
+}
+
+.eee{
+    color: red
+}
+
+.xxx{
+    width: 30px;
+}
+
+.block1{
+    color: red
+}
+.block2{
+    color: green
+}
+.block3{
+    color: blue;
+}
+.block4{
+    color: red;
+}
+.block5{
+    color: green;
+}
+
+
+.eee {
+	font-size: 20px;
+	line-height: 1.5;
+	font-family: Arial;
+}
+.zzz {
+	font-size: 30px;
+	line-height: 1.5;
+	font-family: Arial;
+}
+
+.eee , .zzz {
+    line-height: 1.5;
+	font-family: Arial;
+}
+.eee{
+    font-size: 20px;
+}
+.zzz {
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+.eee {
+	font-size: 20px;
+	text-align: center;
+	font-family: Arial;
+}
+.zzz {
+	font-size: 30px;
+	text-align: center;
+	font-family: Arial;
+}
+.ggg {
+	font-size: 35px;
+	text-align: center;
+	font-family: Arial;
+}
+
+.eee , .zzz , .ggg {
+    text-align: center;
+	font-family: Arial;
+}
+.ggg {
+	font-size: 35px;
+}
+.eee {
+	font-size: 20px;
+}
+.zzz {
+	font-size: 30px;
+}

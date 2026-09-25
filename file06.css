@@ -1,0 +1,433 @@
+
+/*
+.eee.zzz.ccc {
+    color:red;
+}
+*/
+/*
+.bbb.zzz {
+	color: red;
+}
+*/
+/*
+h2.bbb.zzz {
+	color: red;
+}
+*/
+/*
+#elem.bbb {
+	color: red;
+}
+	 
+	#elem.bbb.zzz {
+	color: red;
+}
+*/
+/*
+h2#elem.bbb {
+	color: red;
+}
+*/
+/*
+h2.zzz {
+	color: red;
+}
+
+h2 .zzz {
+	color: red;
+}
+	
+	.bbb.zzz {
+	color: red;
+}
+.bbb .zzz {
+	color: red;
+}
+	
+	.bbb.zzz.xxx {
+	color: red;
+}
+	
+	.bbb .zzz.xxx {
+	color: red;
+}
+	
+	.bbb.zzz .xxx {
+	color: red;
+}
+	
+	.bbb .zzz .xxx {
+	color: red;
+}
+	
+#elem.bbb {
+	color: red;
+}
+
+#elem .bbb {
+	color: red;
+}
+	
+
+#block h1 , #block h2{
+	text-align: center;
+}
+
+#block h1 {
+	
+	font-size: 30px;
+}
+#block h2 {
+	
+	font-size: 20px;
+}
+#block h1 , #block h2{
+	text-align: center;
+}
+
+
+
+#block h2 {
+	
+	color: blue;
+}
+#block h3 {
+	
+	font-size: 16px;
+	color: red;
+}
+
+#block h1, #block h2, #block h3{
+	text-align: center;
+}
+
+#block h1.eee {
+	
+	font-size: 30px;
+}
+#block h2.zzz {
+	
+	font-size: 20px;
+}
+
+#block h1.eee ,#block h1.zzz {
+	text-align: center;
+}
+
+
+
+.xxx .kkk , .eee h2.zzz,#eee h2 {
+	text-align: center;
+}
+
+
+
+
+.eee h2.zzz, .xxx {
+	text-align: center;
+}
+
+
+div p
+
+div h2
+
+
+#block p
+
+#block h2
+
+
+.bbb 
+
+
+#block .bbb
+
+p.bbb
+
+h2.bbb
+
+
+#block p.bbb
+
+.bbb, .xxx
+
+
+p.bbb ,h2.xxx
+
+#block p.bbb, #block p.xxx
+
+.fff
+
+.fff p
+
+p.fff
+
+.fff .bbb
+
+.fff h2.bbb
+
+#elem + li
+
+.elem + li
+
+
+main
+
+[title]{
+
+}
+p[title]{
+
+}
+p[title="hello"]{
+
+}
+a[href^="http://"]{
+
+}
+a[href$=".html"]{
+
+}
+p[title~="hello"]{
+
+}
+
+p[class^="top-"] {
+  
+}
+
+a:link{
+	color: blue;
+}
+a:visited{
+	color: green;
+}
+a:hover{
+	color: red;
+	text-decoration:none;
+}
+a:active{
+	color: black;
+}
+
+
+a:link, a:visited, a:active {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+
+#test a:link ,#test a:visited{
+	color: red;
+}
+#test a:hover{
+	text-decoration: none;
+}
+
+a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+
+#block a.zzz {
+	color: red;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+}
+
+.block a.zzz {
+	color: red;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+}
+
+li:first-child {
+	color: red;
+}
+
+li:last-child{
+	color: green;
+}
+
+li:first-child {
+	color: red;
+}
+ li:last-child{
+	color: green;
+ }
+
+li:nth-child(3){
+	color: red;
+}
+
+li:nth-child(even){
+	color:green;
+}
+li:nth-child(odd){
+	color: red;
+}
+
+li:nth-child(3n){
+	color: red;
+}
+	
+
+li:nth-last-child(2){
+	color: red;
+}
+
+
+li:only-child{
+	color: red;
+}
+
+
+
+
+li {
+    border: 1px solid red;
+    width: 100px;
+}
+
+li:empty {
+    border-color: blue;
+}
+
+
+		a:link    {}
+        a:visited {}   
+		a:hover   {}
+        a:active  {}
+
+
+li:not(.elem){
+	color:red
+}
+
+li:not(:first-child){
+	color:red;
+}
+*/
+li:not(:first-child, :last-child){
+	color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

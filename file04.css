@@ -1,0 +1,91 @@
+
+/*
+.header {
+	color: red;
+}
+
+h2 .header{
+    font-size: 40px;
+}
+h3.header{
+    font-size: 30px;
+}
+.eee i {
+    color: red
+}
+    */
+   /* 
+.eee .bbb {
+	color: red;
+}
+*/
+/*
+.eee h2 {
+	color: red;
+}
+*/
+/*
+.eee h2.bbb {
+	color: red;
+}
+*/
+/*
+.eee h3.bbb {
+	color: red;
+}
+*/
+/*
+.eee p.bbb {
+	color: red;
+}
+*/
+/*
+.eee .bbb .kkk {
+	color: red;
+}
+*/
+/*
+p.bbb{
+    color:red
+}
+*/
+/*
+p .bbb{
+    color: red;
+}
+*/
+/*
+.eee p.bbb {
+	color: red;
+}
+*/
+/*
+.eee p .bbb {
+	color: red;
+}
+*/
+/*
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+    /*
+/*
+.small {
+	font-size: 20px;
+}
+.error{
+    color: red;
+}
+.big{
+    font-style:oblique;
+}
+*/
